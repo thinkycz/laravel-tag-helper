@@ -2,7 +2,7 @@
 
 namespace BeyondCode\TagHelper;
 
-use Sunra\PhpSimple\HtmlDomParser;
+use KubAT\PhpSimple\HtmlDomParser;
 use Illuminate\Filesystem\Filesystem;
 use BeyondCode\TagHelper\Html\HtmlElement;
 
